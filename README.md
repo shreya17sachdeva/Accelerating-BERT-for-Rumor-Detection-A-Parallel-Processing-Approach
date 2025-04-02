@@ -1,0 +1,2 @@
+# Accelerating-BERT-for-Rumor-Detection-A-Parallel-Processing-Approach
+This project explores the optimization of BERT-based rumor detection by implementing parallel processing techniques to improve efficiency while maintaining high accuracy. The key focus is on enhancing inference speed using multi-threading and mixed precision training, achieving a 2.95x speedup over traditional sequential BERT execution.
